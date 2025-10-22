@@ -31,7 +31,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 1.  **Clona el repositorio**
     ```bash
-    git clone [https://github.com/Playonline-security/quest-game.git](https://github.com/Playonline-security/quest-game.git)
+    git clone https://github.com/Playonline-security/quest-game.git
     cd quest-game
     ```
 
