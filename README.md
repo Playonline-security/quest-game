@@ -1,7 +1,5 @@
 # 🌳 El bosque del eco: Aventura de texto con Java Web
 
-![Banner del Bosque del Eco](https://i.imgur.com/rL7nF4f.png)
-
 Una aventura de texto inmersiva donde tus decisiones forjan tu destino. Este proyecto fue desarrollado con **Java Servlets, JSP y JSTL**, creando una experiencia de juego dinámica y persistente directamente en tu navegador.
 
 ---
@@ -33,7 +31,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 1.  **Clona el repositorio**
     ```bash
-    git clone [https://github.com/tu-usuario/quest-game.git](https://github.com/tu-usuario/quest-game.git)
+    git clone [https://github.com/Playonline-security/quest-game.git](https://github.com/Playonline-security/quest-game.git)
     cd quest-game
     ```
 
@@ -56,4 +54,5 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 ### 👤 Autor
 
 * **Jonathan Uzcátegui González**
+
 _Este proyecto fue desarrollado como parte del programa de formación de CodeGym._
